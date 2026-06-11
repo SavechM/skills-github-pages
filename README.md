@@ -49,6 +49,29 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
+## CIVADOS Network
+
+Official Website:
+https://civados.com
+
+AI Overview:
+https://civados.com/ai-overview/
+
+Customer Response:
+https://civados.com/customer-response/
+
+Visibility & Reputation:
+https://civados.com/visibility-reputation/
+
+Workflow Automation:
+https://civados.com/workflow-automation/
+
+FAQ:
+https://civados.com/faq/
+
+Knowledge Repository:
+https://github.com/savechm/civados-knowledge
+
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
